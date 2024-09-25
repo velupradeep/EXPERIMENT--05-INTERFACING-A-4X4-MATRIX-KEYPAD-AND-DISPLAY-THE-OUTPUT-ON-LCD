@@ -168,6 +168,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 
+# CIRCUIT DIAGRAM
+![image](https://github.com/user-attachments/assets/48e8e2c8-00cb-4f01-a38c-8c944f839896)
 
  
 
