@@ -176,8 +176,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
  
 
 ## STM 32 CUBE PROGRAM :
-## NAME:PRADEEP V
-## REG NO:212223240119
+
 
 ```
 #include "main.h"
